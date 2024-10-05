@@ -42,7 +42,7 @@ Follow the steps below to install and setup the project:
 2. **Navigate to the project directory**
 
    ```bash
-   cd normalhuman
+   cd AI-Email-SaaS
    ```
 
 3. **Install Node.js**
